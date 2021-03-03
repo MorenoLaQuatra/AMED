@@ -1,5 +1,5 @@
-# WEDME
-The code for the paper "Inferring multilingual domain-specific word embeddings from large document corpora"
+# AMED
+Data and code for the paper "Inferring multilingual domain-specific word embeddings from large document corpora"
 
 ## Pretraining Multilingual models on Wikipedia
 
